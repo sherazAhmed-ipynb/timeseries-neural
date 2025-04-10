@@ -48,7 +48,14 @@ cd timeseries-neural
 conda create -n tf_env python=3.10
 conda activate tf_env
 
-## 💡 Contact
 
-- Sheraz Ahmed
-- GitHub:@sherazAhmed-ipynb
+✨ Future Work
+Add multivariate time series analysis
+
+Integrate Prophet or other advanced forecasting tools
+
+Experiment with hybrid models combining statistical and deep learning approaches
+
+📬 Contact
+Sheraz Ahmed
+GitHub: @sherazAhmed-ipynb

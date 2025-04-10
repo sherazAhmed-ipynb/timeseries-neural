@@ -20,5 +20,35 @@ This repository focuses on **time series analysis and forecasting** using deep l
 - Scikit-learn
 - Statsmodels
 
-## 📂 Structure
+## 📊 Datasets Used
 
+Some datasets used for time series forecasting:
+
+- Jena Climate Dataset (Weather)
+- Electricity Consumption Data
+- Stock Price Series (e.g., Google/Amazon)
+- Air Passenger Data
+
+## 📈 Models Covered
+
+- Dense Neural Networks (DNN)
+- Long Short-Term Memory (LSTM)
+- Gated Recurrent Unit (GRU)
+- Baseline and Naive Forecasting
+- ARIMA (via `statsmodels`)
+
+## 🚀 Getting Started
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/sherazAhmed-ipynb/timeseries-neural.git
+cd timeseries-neural
+
+conda create -n tf_env python=3.10
+conda activate tf_env
+
+## 💡 Contact
+
+- Sheraz Ahmed
+- GitHub:@sherazAhmed-ipynb
